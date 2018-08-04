@@ -14,7 +14,8 @@ boss is stupid
 
 1234567890
 
-<<<<<<< Updated upstream
+fffffffff
 
+12345678
 
 
