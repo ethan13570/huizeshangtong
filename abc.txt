@@ -1,3 +1,5 @@
 人生自古谁无私,留取丹心照汗青.
 Git is free software distributed under the GPL
 实践是检验真理的唯一标准;
+Git tracks changes
+git tracks changes
